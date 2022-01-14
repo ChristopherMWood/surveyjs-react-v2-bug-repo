@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import MHOSurveyCreator from './creator';
+import Creator from './creator';
 
 function App() {
   return (
-    <MHOSurveyCreator />
+    <Creator />
   );
 }
 
