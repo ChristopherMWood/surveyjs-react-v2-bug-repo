@@ -1,5 +1,7 @@
 # Survey JS React V2 Warning Messages Repo
 
+SurveyJS Ticket: https://surveyjs.answerdesk.io/ticket/details/t8573/surveyjs-creator-react-v2-throws-warnings-when-used-in-a-react-app
+
 Repo of two warning messages showing up when using SurveyJS React V2 in a React project. The below project was bootstrapped using react ```npx create-react-app```
 and has no defaults changed. The only difference is the App component renders a creator component that contains SurveyJS React V2 and a bare minimum Survey defined in JSON.
 
